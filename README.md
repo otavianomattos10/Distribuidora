@@ -6,3 +6,5 @@ Nestes fontes contém os seguintes exemplos:
 - MVC Modelo 1.
 - Criação de tela com grid.
 - Rotina automática de inclusão de título a receber.
+
+Desenvolvimento feito em ADVPL.
